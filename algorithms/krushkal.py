@@ -80,6 +80,7 @@ def run():
       element.extend([grey, black])
 
     build_edges()
+    time.sleep(3)
     pygame.init()
     clock = pygame.time.Clock()
 
