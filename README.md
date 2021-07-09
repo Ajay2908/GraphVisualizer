@@ -8,7 +8,7 @@ python visualize.py
 ```
 ### Preview
 #### Depth First Search
-<img src="https://user-images.githubusercontent.com/74947404/125050352-846c5680-e0bf-11eb-823a-05b07a025a9e.gif" width="700" height="700"/>
+<img src="https://user-images.githubusercontent.com/74947404/125050352-846c5680-e0bf-11eb-823a-05b07a025a9e.gif" width="800" height="600"/>
 
 
 #### Breadth First Search
